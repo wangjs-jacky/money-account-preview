@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/money-account-preview/static/css/main.4ee575a0.css",
+    "main.js": "/money-account-preview/static/js/main.2b71ec77.js",
+    "index.html": "/money-account-preview/index.html",
+    "main.4ee575a0.css.map": "/money-account-preview/static/css/main.4ee575a0.css.map",
+    "main.2b71ec77.js.map": "/money-account-preview/static/js/main.2b71ec77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee575a0.css",
+    "static/js/main.2b71ec77.js"
+  ]
+}
